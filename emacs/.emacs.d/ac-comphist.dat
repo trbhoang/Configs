@@ -1,0 +1,526 @@
+((("abc" .
+   [2 0 0])
+  ("xml" .
+   [2 0 0])
+  ("defface" .
+   [0 0 0 3 0 0 0])
+  ("string" .
+   [3 0 1 4 1 7])
+  ("my-goto-normal-" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("my-goto-normal-file" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("my-goto-normal-dir" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 2])
+  ("my-goto-project-file" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("dir-to-find" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("extension-pattern" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("input-pattern" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("my-explorer-for-ror-project" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("path" .
+   [2 0 0 0])
+  ("let" .
+   [2 0 0])
+  ("request" .
+   [1 0 0 0 0 2 0])
+  ("my-explorer" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("cond" .
+   [1 0 0 0])
+  ("assoc" .
+   [0 0 0 0 1])
+  ("cdr" .
+   [1 0 0])
+  ("my-project-type" .
+   [1 0 0 0 0 0 1 0 0 0 0 0 0 0 2])
+  ("get" .
+   [1 0 0])
+  ("edit" .
+   [1 0 0 0])
+  ("delete" .
+   [1 0 0 0 0 0])
+  ("params" .
+   [0 0 0 2 0 1])
+  ("100000" .
+   [2 0 0 0 0 0])
+  ("merge" .
+   [2 0 0 1 1])
+  ("except" .
+   [10 0 0 0 0 0])
+  ("SampleReg1" .
+   [1 0 0 7 1 0 0 0 3 6])
+  ("debugger" .
+   [0 0 0 0 1 0 0 0])
+  ("add" .
+   [1 0 0])
+  ("error" .
+   [0 0 0 0 2])
+  ("destroy" .
+   [0 0 0 1 0 0 0])
+  ("created" .
+   [0 0 0 0 0 0 1])
+  ("new_reg" .
+   [1 0 0 0 0 0 5])
+  ("transaction" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("Regcode" .
+   [0 0 0 0 0 0 2])
+  ("update_attributes" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0])
+  ("oldemails" .
+   [0 0 0 1 0 0 0 0 1])
+  ("self" .
+   [19 0 0 5])
+  ("unless" .
+   [0 0 0 0 1 1])
+  ("empty" .
+   [0 0 0 0 4])
+  ("empty?" .
+   [1 0 0 0 0 1])
+  ("errors" .
+   [1 0 0 0 0 0])
+  ("attrs" .
+   [0 0 2 8 4])
+  ("reg2" .
+   [2 0 0 0])
+  ("composite_update_attributes" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("composite" .
+   [0 0 0 0 0 0 0 0 1])
+  ("reg1" .
+   [3 0 0 0])
+  ("test" .
+   [5 0 0 0])
+  ("txid" .
+   [6 0 0 1])
+  ("blank" .
+   [0 0 0 0 1])
+  ("regcodes" .
+   [1 0 0 0 0 0 0 0])
+  ("save" .
+   [3 0 2 0])
+  ("reg" .
+   [7 0 0])
+  ("call-interactively" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("my-tagging" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("30px" .
+   [1 0 0 0])
+  ("margin-bottom" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("padding-top" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("gre" .
+   [1 0 0])
+  ("at_time" .
+   [0 0 0 0 0 0 1])
+  ("time_at" .
+   [1 0 0 0 0 0 0])
+  ("marker" .
+   [1 0 0 0 0 0])
+  ("updated_at" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("assert_raise" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("doors" .
+   [2 0 0 0 0])
+  ("assert_nothing_raised" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("NoMethodError" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("wheels" .
+   [2 0 0 0 1 0])
+  ("new_car" .
+   [0 0 0 0 5 0 5])
+  ("Array" .
+   [1 0 0 0 0])
+  ("kind_of?" .
+   [0 0 0 1 0 0 0 0])
+  ("full_name" .
+   [0 0 0 0 0 0 1 1 0])
+  ("colors" .
+   [0 0 1 0 0 2])
+  ("string_car" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("2000" .
+   [1 0 0 0])
+  ("String" .
+   [0 0 0 0 0 2])
+  ("shuffled_car" .
+   [0 0 1 2 0 0 0 0 0 0 0 0])
+  ("2005" .
+   [1 0 0 0])
+  ("custom_car" .
+   [0 0 1 3 0 0 0 0 0 0])
+  ("2007" .
+   [2 0 0 0])
+  ("assert_equal" .
+   [0 0 0 0 0 0 0 4 1 10 2 0])
+  ("default_car" .
+   [0 0 0 0 0 0 0 0 2 1 2])
+  ("assert" .
+   [0 0 0 0 0 7])
+  ("new" .
+   [10 0 0])
+  ("color" .
+   [5 0 0 1 3])
+  ("year" .
+   [10 0 0 0])
+  ("model" .
+   [5 0 0 1 3])
+  ("Car" .
+   [11 0 0])
+  ("validate" .
+   [1 0 0 0 0 0 0 0])
+  ("true" .
+   [1 0 0 0])
+  ("prodvers" .
+   [2 0 0 0 0 1 2 6])
+  ("default" .
+   [0 0 0 0 0 0 3])
+  ("action_mailer" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("config" .
+   [2 0 0 0 0 0])
+  ("fired_at" .
+   [0 0 0 0 0 1 0 0])
+  ("notification_category_id" .
+   [8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("no_cat_due" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("no_cat_pre_due" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("no_cat_changing" .
+   [0 0 0 0 0 0 0 0 0 0 0 3 0 0 0])
+  ("no_cat_assigning" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("NotificationCategory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("to_s" .
+   [1 0 1 0])
+  ("now" .
+   [3 0 0])
+  ("Time" .
+   [3 0 0 0])
+  ("schedule" .
+   [1 0 0 0 0 0 0 0])
+  ("Scheduler" .
+   [0 0 0 0 0 0 1 0 0])
+  ("job" .
+   [1 0 0])
+  ("every" .
+   [1 0 0 0 1])
+  ("raise" .
+   [4 0 0 0 0])
+  ("puts" .
+   [18 0 0 0])
+  ("do" .
+   [11 0])
+  ("in" .
+   [3 0])
+  ("scheduler" .
+   [3 0 0 0 0 0 0 0 0])
+  ("role" .
+   [0 0 0 1])
+  ("last_name" .
+   [0 0 0 0 0 0 0 0 1])
+  ("first_name" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("email" .
+   [2 0 0 1 5])
+  ("values" .
+   [1 0 0 0 0 0])
+  ("QuestionnaireAssignment" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("report" .
+   [1 0 0 0 0 0])
+  ("find-file-other-window" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ido-mode" .
+   [0 0 0 0 0 0 1 0])
+  ("ido" .
+   [1 0 0])
+  ("nil" .
+   [10 0 0])
+  ("confirm-nonexistent-file-or-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [10 0 0 0])
+  ("f2" .
+   [1 0])
+  ("create" .
+   [5 0 0 0 0 1])
+  ("kbd" .
+   [1 0 0])
+  ("concat" .
+   [6 0 0 0 0 1])
+  ("find-file" .
+   [2 0 0 0 0 0 0 0 0])
+  ("interactive" .
+   [0 0 0 0 0 0 0 1 0 0 1])
+  (".emacs" .
+   [1 0 0 0 0 0])
+  ("defun" .
+   [2 0 0 3 3])
+  ("show" .
+   [2 0 0 0])
+  ("Product" .
+   [0 0 0 0 1 0 0])
+  ("read" .
+   [1 0 0 0])
+  ("can" .
+   [2 0 0])
+  ("tabbar-forward-group" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("tabbar-forward-tab" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("actions" .
+   [0 0 0 0 0 0 1])
+  ("controller" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("dashboard" .
+   [0 0 0 0 0 0 0 0 1])
+  ("map" .
+   [1 0 0])
+  ("DATA" .
+   [0 0 1 0])
+  ("def" .
+   [5 0 0])
+  ("deft" .
+   [0 0 0 2])
+  ("require" .
+   [2 0 0 0 1 1 0])
+  ("haml-mode" .
+   [0 0 0 0 0 0 0 0 1])
+  ("user_id" .
+   [1 0 0 0 0 0 0])
+  ("user" .
+   [1 0 0 0])
+  ("id" .
+   [1 0])
+  ("my-rails-project-config" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("my-rails-project-db" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("my-rails-project-migrations" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("my-rails-project-javascripts" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("my-rails-project-stylesheets" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("load-path" .
+   [0 0 0 0 0 0 0 0 1])
+  ("Icicles" .
+   [1 0 0 1 0 1 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("NotificationSetting" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("name" .
+   [2 0 0 0])
+  ("NAMES" .
+   [3 0 0 0 0])
+  ("type" .
+   [2 0 0 0])
+  ("required" .
+   [1 0 0 0 0 0 0 0])
+  ("task_assign" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("TYPES" .
+   [1 0 0 0 0])
+  ("task_assigning" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("task_category_changing" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("task_changing" .
+   [0 0 0 0 0 0 0 0 4 4 0 0 0])
+  ("task_name_changing" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("task_status_changing" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("task_weight_changing" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("task_assigned_date_changing" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("task_due_date_changing" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("task_new_comment_changing" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("task_pre_due_warning" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("task_pre_due" .
+   [0 0 0 0 0 0 0 0 1 1 0 0])
+  ("task_due_warning" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("task_due" .
+   [1 0 0 0 0 0 0 1])
+  ("dired-details" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("authenticate" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("false" .
+   [2 0 0 1 0])
+  ("session" .
+   [1 0 0 0 0 0 0])
+  ("inspect" .
+   [0 0 0 2 3 0 0])
+  ("text" .
+   [1 0 0 0])
+  ("prodname" .
+   [0 0 1 0 5 0 1 10])
+  ("null" .
+   [1 0 0 0])
+  ("regcode" .
+   [0 0 0 0 0 4 13])
+  ("regname" .
+   [0 0 0 5 2 0 7])
+  ("result" .
+   [2 0 0 0 1 1])
+  ("Exalead" .
+   [0 0 0 0 0 1 2])
+  ("call" .
+   [4 0 0 0])
+  ("return" .
+   [0 0 0 0 0 1])
+  ("BEGIN" .
+   [0 0 0 0 1])
+  ("begin" .
+   [1 0 0 0 0])
+  ("reply" .
+   [2 0 0 0 0])
+  ("rescue" .
+   [0 0 0 0 1 0])
+  ("en" .
+   [3 0])
+  ("Exception" .
+   [0 0 0 1 1 1 0 0 0])
+  ("LiveArticlePage" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("all" .
+   [1 0 0])
+  ("each" .
+   [1 0 0 0])
+  ("lap" .
+   [2 0 0])
+  ("Date" .
+   [1 0 0 0])
+  ("today" .
+   [1 0 0 0 0])
+  ("100" .
+   [1 0 0])
+  ("years" .
+   [0 0 0 0 1])
+  ("if" .
+   [14 0])
+  ("live_article" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("nil?" .
+   [7 0 0 0])
+  ("else" .
+   [6 0 0 0])
+  ("Thread" .
+   [1 0 0 0 0 0])
+  ("50%" .
+   [1 0 0])
+  ("height" .
+   [1 0 0 0 0 1])
+  ("25px" .
+   [1 0 0 0])
+  ("26px" .
+   [3 0 0 0])
+  ("100px" .
+   [1 0 0 0 0])
+  ("padding" .
+   [1 0 0 0 0 0 1])
+  ("3px" .
+   [3 0 0])
+  ("margin-top" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("0" .
+   [1])
+  ("10px" .
+   [1 0 0 0])
+  ("width" .
+   [1 0 0 0 0])
+  ("my-load-configurations" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("/home/hoangtran/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("/home/hoangtran/Projects/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("/home/hoangtran/Projects/EmacsConfigurations/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("/home/hoangtran/Projects/EmacsConfigurations/conf" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("my-tagging-command" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("my-change-project" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("file-exists-p" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("my-configurations-path" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1])
+  ("Project" .
+   [1 0 0 0 0 0 0])
+  ("project-name" .
+   [0 0 0 0 0 0 0 0 0 0 1 1])
+  ("defvar" .
+   [1 0 0 1 0 3])
+  ("my-project" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("my-configurations" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("my-initializing" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("progn" .
+   [2 0 0 0 0])
+  ("my-projects-path" .
+   [0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0])
+  ("my-project-configuration-path" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("length" .
+   [0 0 0 0 0 1])
+  ("message" .
+   [0 0 0 0 0 0 4])
+  ("buffer-file-name" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("my-current-project-path" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("does" .
+   [0 0 0 1])
+  ("sign_in_count" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("admin" .
+   [1 0 0 0 0])
+  ("post" .
+   [1 0 0 0])
+  ("update" .
+   [1 0 0 0 0 0])
+  ("activity" .
+   [0 0 0 0 0 0 0 1])
+  ("android:name=" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("android:label=" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("/activity" .
+   [0 0 0 1 0 0 0 0 0])
+  ("implements" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("OnClickListener" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("file-pattern" .
+   [0 0 0 0 0 0 0 2 0 0 0 0])
+  ("my-android-package" .
+   [0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0])
+  ("stringent" .
+   [0 0 0 1 0 0 1 0 0])
+  ("name=" .
+   [0 0 0 1 2])))

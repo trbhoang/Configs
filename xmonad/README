@@ -1,0 +1,31 @@
+* Xmonad and Gnome on Ubuntu 11.04
+
+  1. Install Xmonad
+     $ sudo apt-get install xmonad
+     
+  2. Make file "/usr/share/xsessions/xmonad.desktop" which contains:
+     [Desktop Entry]
+     Encoding=UTF-8
+     Name=Xmonad
+     Comment=Frustration free desktop experience
+     Exec=gnome-session --session=xmonad
+     Icon=xmonad.png
+     Type=XSession
+
+  3. Make file "/usr/share/gnome-session/sessions/xmonad.session" which contains:
+     [GNOME Session]
+     Name=Xmonad
+     Required=windowmanager;panel;filemanager;
+     Required-windowmanager=xmonad
+     Required-panel=gnome-panel
+     Required-filemanager=nautilus
+     DefaultApps=gnome-settings-daemon;
+
+  4. Create a xmonad config file .xmonad/xmonad.hs
+
+  5. Login and select "Xmonad" session
+
+  
+* Using Xmonad on Ubuntu 11.04
+  1. Application launcher
+     Use Kupfer as app launcher. It's very good launcher. We can config to use other shortcut key (ex: M-o) to start the launcher. It prevents using M-p which conflicts with both Ubuntu and Xmonad.
