@@ -198,8 +198,8 @@
 
 ;;;;; My configurations
 
-(defvar my-projects-path "/media/DATA/Document/Projects/")
-(defvar my-configurations-path (concat my-projects-path "EmacsConfigurations/"))
+(defvar my-projects-path "~/Projects/")
+(defvar my-configurations-path (concat my-projects-path "Editor/ProjectsNavigationOnEmacs/"))
 (defvar my-project-configuration-path (concat my-configurations-path "conf"))
 (defvar my-saved-window-config nil)
 (defvar my-current-zoom nil)
